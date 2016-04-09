@@ -13,6 +13,7 @@ public class Main {
 		operaciones.add(new Multiplicacion());
 		operaciones.add(new Division());
 		
+		
 		for (Operable operable : operaciones) {
 			System.out.println(operable.operar());
 		}
