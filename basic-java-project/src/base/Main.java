@@ -12,6 +12,7 @@ public class Main {
 		operaciones.add(new Resta());
 		operaciones.add(new Multiplicacion());
 		operaciones.add(new Division());
+		operaciones.add(new Trimonio());
 		
 		
 		for (Operable operable : operaciones) {
