@@ -14,6 +14,6 @@ public class Division implements Operable{
 		//cadena= Integer.toString(numero_dos);
 		numero = numero/numero_dos;
 		cadena = String.valueOf(numero);	
-		return cadena;
+		return "Division = " + cadena;
 	}
 }
