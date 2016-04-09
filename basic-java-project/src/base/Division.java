@@ -4,7 +4,7 @@ public class Division implements Operable{
 	@Override
 	public String operar() {
 		// TODO Auto-generated method stub
-		String cadena='';
+		String cadena="";
 		int numero = 1234;
 		int numero_dos = 12;	
 		//String cadena = "";	 
